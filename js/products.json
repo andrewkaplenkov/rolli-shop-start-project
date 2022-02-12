@@ -5,7 +5,7 @@
 		"itemsInBox": 6,
 		"weight": 180,
 		"price": 300,
-		"imgSrc": "../img/roll/california-hit.jpg"
+		"imgSrc": "img/roll/california-hit.jpg"
 	},
 	{
 		"id": 2,
@@ -13,7 +13,7 @@
 		"itemsInBox": 6,
 		"weight": 205,
 		"price": 250,
-		"imgSrc": "../img/roll/california-tempura.jpg"
+		"imgSrc": "img/roll/california-tempura.jpg"
 	},
 	{
 		"id": 1,
@@ -21,7 +21,7 @@
 		"itemsInBox": 6,
 		"weight": 182,
 		"price": 230,
-		"imgSrc": "../img/roll/zapech-california.jpg"
+		"imgSrc": "img/roll/zapech-california.jpg"
 	},
 	{
 		"id": 1,
@@ -29,6 +29,6 @@
 		"itemsInBox": 6,
 		"weight": 230,
 		"price": 320,
-		"imgSrc": "../img/roll/philadelphia.jpg"
+		"imgSrc": "img/roll/philadelphia.jpg"
 	}
 ]
